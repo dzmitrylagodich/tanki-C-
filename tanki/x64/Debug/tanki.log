@@ -1,0 +1,9 @@
+﻿  tanki.cpp
+D:\ПРОЕКТЫ C++\курсовая\tanki\tanki.cpp(46,50): warning C4129: : неизвестная escape-последовательность
+D:\ПРОЕКТЫ C++\курсовая\tanki\tanki.cpp(46,19): warning C4305: =: усечение из "int" в "char"
+D:\ПРОЕКТЫ C++\курсовая\tanki\tanki.cpp(46,50): warning C4309: =: усечение константного значения
+D:\ПРОЕКТЫ C++\курсовая\tanki\tanki.cpp(148,17): warning C4309: =: усечение константного значения
+D:\ПРОЕКТЫ C++\курсовая\tanki\tanki.cpp(180,29): warning C4309: =: усечение константного значения
+D:\ПРОЕКТЫ C++\курсовая\tanki\tanki.cpp(182,29): warning C4309: =: усечение константного значения
+D:\ПРОЕКТЫ C++\курсовая\tanki\tanki.cpp(218,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tanki.vcxproj -> D:\ПРОЕКТЫ C++\курсовая\tanki\x64\Debug\tanki.exe
